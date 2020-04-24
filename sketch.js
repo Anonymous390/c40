@@ -6,8 +6,7 @@ var allPlayers;
 var car1, car2, car3, car4, cars;
 var track, ground, car1_img, car2_img, car3_img, car4_img ;
 
-function preload()
-{
+function preload(){
     track = loadImage("../images/track.jpg");
     car1_img = loadImage("../images/car1.png");
     car2_img = loadImage("../images/car2.png");
